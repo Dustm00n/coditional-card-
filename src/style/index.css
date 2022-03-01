@@ -1,3 +1,8 @@
+.fondo {
+  background-image: url("https://media.giphy.com/media/Q34Q46x7bUUKJfbn0s/giphy-downsized-large.gif");
+  background-size: cover;
+}
+
 .filters {
   background: white;
   width: 100%;
